@@ -9,7 +9,15 @@
     <script>
         fetch("100testData.json")
             .then(response => response.json())
-            .then(data => console.log(data));
+            .then(Cars => {
+
+                // Get random Car
+                const randomCar = Cars[Math.floor(Math.random() * Cars.length)];
+                let car_name = randomCar.name;
+                let car_pic = randomCar.pic;
+
+                console.log("Random Car: " + car_name);
+            });
     </script>
 </body>
 </html>
