@@ -49,34 +49,23 @@
     },
     {
         "id": 8,
-        "name": "Roush Performance F150 Pickup 2WD",
+        "name": "Hyundai Sonata",
         "pic": "",
         "author": ""
     },
     {
         "id": 9,
-        "name": "Hyundai Sonata",
-        "pic": "",
-        "author": ""
-    },
-    {
-        "id": 10,
         "name": "Porsche 911 Carrera S Cabriolet",
         "pic": "",
         "author": ""
     },
     {
-        "id": 11,
-        "name": "Hyundai Sonata",
-        "pic": ""
-    },
-    {
-        "id": 12,
+        "id": 10,
         "name": "Nissan 370Z Roadster",
         "pic": ""
     },
     {
-        "id": 13,
+        "id": 11,
         "name": "Infiniti Q50S AWD",
         "pic": ""
     },

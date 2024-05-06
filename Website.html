@@ -10,7 +10,6 @@
         fetch("100testData.json")
             .then(response => response.json())
             .then(Cars => {
-
                 // Get random Car
                 const randomCar = Cars[Math.floor(Math.random() * Cars.length)];
                 let car_name = randomCar.name;
