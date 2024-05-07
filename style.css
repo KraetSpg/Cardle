@@ -5,7 +5,7 @@
     background-position:center;
 }*/
 .bg-image{
-    background-image: url('Background_Home_60.jpg'); height: 100vh; background-size: cover;
+    background-image: url('Pictures/Background_Home_60.jpg'); height: 100vh; background-size: cover;
 }
 
 .solidlogo{
