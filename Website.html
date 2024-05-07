@@ -4,8 +4,10 @@
     <title>Website</title>
 </head>
 <body>
-    <h1>Website</h1>
-    <p>Website content goes here.</p>
+    <h1>Cardle</h1>
+    <h2>Your daily Car Quiz</h2>
+    <image src="" id="Car Picture"></image>
+    <input type="text" id=""></input>
     <script>
         fetch("100testData.json")
             .then(response => response.json())
@@ -15,7 +17,9 @@
                 let car_name = randomCar.name;
                 let car_pic = randomCar.pic;
 
-                console.log("Random Car: " + car_name);
+                // Display Car
+                document.getElementById("Car Picture").src = car_pic;
+
             });
     </script>
 </body>
