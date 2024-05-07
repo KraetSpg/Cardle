@@ -1,0 +1,34 @@
+/*.container1{
+    background-image:url('Background_Home.jpg');
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+}*/
+.bg-image{
+    background-image: url('Background_Home_60.jpg'); height: 100vh; background-size: cover;
+}
+
+.solidlogo{
+    opacity: 1;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.game-button{
+    margin-top: 10px;
+    margin-bottom: 50px;    
+}
+.game-button1{
+    margin-top: 50px;
+    margin-bottom: 50px;    
+}
+.subheadline{
+    color: white; font-size: large;
+}
+@media only screen and (max-width: 600px) {
+    .bg-image {
+        background-position: left;
+        background-size: contain;
+        height: 50vh;
+    }
+  }
