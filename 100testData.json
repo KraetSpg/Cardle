@@ -56,13 +56,14 @@
     {
         "id": 9,
         "name": "Porsche 911 Carrera S Cabriolet",
-        "pic": "",
-        "author": ""
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Porsche_911_Carrera_S_Cabriolet_2006_%2839134473195%29.jpg/1200px-Porsche_911_Carrera_S_Cabriolet_2006_%2839134473195%29.jpg?20190128215853",
+        "author": "RL GNZLZ"
     },
     {
         "id": 10,
         "name": "Nissan 370Z Roadster",
-        "pic": ""
+        "pic": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nissan_370Z_Roadster_%E2%80%93_Frontansicht%2C_5._Mai_2012%2C_D%C3%BCsseldorf.jpg",
+        "author": "M 93"
     },
     {
         "id": 11,
